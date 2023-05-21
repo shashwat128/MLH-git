@@ -6,3 +6,7 @@
 2. In CSS body color
  --black    =>    --purple: #4d104a;
  --box-shadow: 0.5rem 1rem rgba(0, 0, 0, 0.1)  =>  rgba(254, 251, 196, 0.37)
+
+3. #eee		=>	#f9d3d5;
+
+4. #fff		=>	#ffeed2;
